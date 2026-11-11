@@ -84,9 +84,6 @@ pembayaran digital (QRIS via Midtrans), dan asisten AI untuk audit bisnis.
 
 ## 3. Instalasi
 
-```bash
-cd F:\kasir_2026_laravel
-
 composer install
 copy .env.example .env
 php artisan key:generate
